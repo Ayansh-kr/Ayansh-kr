@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
+
+I'm Ano — a B.Tech student learning **Web Development**, **DSA**, and **AI/ML**.
+
+I enjoy building things from scratch and turning ideas into small, clean projects.  
+Right now my main stack is **HTML, CSS, JavaScript**, and a bit of **Python**.
+
+I’m working on improving daily: better code, better discipline, better projects.
+
+## Fun Facts
+- Currently on a 3-month grind to level up  
+- Love learning tech solo  
+- Gym + Code lifestyle incoming  
 
 <!--
 **Ayansh-kr/Ayansh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
