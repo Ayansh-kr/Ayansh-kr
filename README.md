@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Ano — a B.Tech student learning **Web Development**, **DSA**, and **AI/ML**.
+I'm Ayansh — a B.Tech student learning **Web Development**, **DSA**, and **AI/ML**.
 
 I enjoy building things from scratch and turning ideas into small, clean projects.  
 Right now my main stack is **HTML, CSS, JavaScript**, and a bit of **Python**.
