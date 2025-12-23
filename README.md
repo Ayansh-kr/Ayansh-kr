@@ -10,7 +10,7 @@ I’m working on improving daily: better code, better discipline, better project
 ## Fun Facts
 - Currently on a 3-month grind to level up  
 - Love learning tech solo  
-- Gym + Code lifestyle incoming  
+ 
 
 <!--
 **Ayansh-kr/Ayansh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
