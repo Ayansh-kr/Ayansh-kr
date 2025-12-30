@@ -9,7 +9,7 @@ I’m working on improving daily: better code, better discipline, better project
 
 ## Fun Facts
 - Currently on a 3-month grind to level up  
-- Love learning tech solo  
+- Love learning tech 
  
 
 <!--
