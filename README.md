@@ -7,9 +7,7 @@ Right now my main stack is **HTML, CSS, JavaScript**, and a bit of **Python**.
 
 I’m working on improving daily: better code, better discipline, better projects.
 
-## Fun Facts
-- Currently on a 3-month grind to level up  
-- Love learning tech 
+
  
 
 <!--
